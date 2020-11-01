@@ -1,2 +1,1 @@
-# Login_Registration_Blazor
-Login_Registration_Blazor
+# https://www.youtube.com/playlist?list=PLqCbg_KAOnCcCTticIJnFKDB9SUos4Xdm
